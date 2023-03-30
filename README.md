@@ -1,5 +1,6 @@
 # 💫 About Me:
-Ciao, lavoro nel campo della programmazione da 3 anni, al momento lavoro in un'azienda di consulenza informatica con il ruolo di FullStack Developer i miei linguaggi preferiti sono Java e Javascript<br>
+With another 2 years of industry experience. My passion for programming has led to the increase of my skills in various technologies, using Java, JavaScript, Quarkus and VueJs
+For the past year, I've been working at a software consultancy, where my developer has competed in all stages of the software lifecycle, from design to build, testing and testing. I have experience managing complex software projects and collaborating with development teams. I am able to work independently and contribute significantly to project planning and management within a team. I am always there for new challenges and new prediction technology<br>
 
 
 ## 🌐 Socials:
