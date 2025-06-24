@@ -1,5 +1,9 @@
 # 💫 About Me:
-With over 4 years of experience in front-end development, I specialize in creating interactive and responsive web applications. I am skilled in using modern frameworks like React, Angular, and Vue.js, with a strong focus on UI/UX design. My work spans from startups to large enterprises, always aiming to deliver elegant and efficient solutions. Recently, I have been involved in developing and optimizing complex software projects, collaborating with multidisciplinary teams to enhance user experience and achieve ambitious business goals. I'm constantly seeking new challenges and opportunities to grow and contribute to team success.
+🚀 Software Engineer with a strong focus on full stack web application development, software architecture, and technical consulting. I have extensive experience in designing and building scalable, high-performance solutions for enterprise environments.
+Currently working at TXT Group as a Software Engineer and Consultant for Leonardo, where I'm leading the redevelopment of a full stack application architecture for aircraft management systems.
+I’m passionate about clean, maintainable code and modern development practices. My tech stack includes Angular, Vue.js, React, Spring Boot, Node.js, Kafka, and AWS.
+Outside of work, I enjoy experimenting with new frameworks and technologies through personal projects like eCommerce platforms and analytics dashboards.
+📌 Open to collaboration on interesting, challenging software projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mattiacucuzza_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-cucuzza) 
